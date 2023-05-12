@@ -1,1 +1,18 @@
 /* write your override styles here */
+#wall > .tag-1 {
+    z-index: 7;
+  display:none;
+  border-bottom-left-radius: 2px;
+  border-style: dashed;
+  background: scroll;
+}
+.parent #tag-6{
+    border-top-right-radius: 2px;
+}
+.parent #tag-7{
+    border-top-right-radius: 2px;
+}
+.parent #tag-5{
+    border-top-right-radius: 2px;
+    box-shadow: none;
+}
